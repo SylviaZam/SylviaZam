@@ -32,4 +32,4 @@ Python • Jupyter • pandas • NumPy • spaCy • scikit‑learn • SQL •
 - LinkedIn: **([https://www.linkedin.com/in/SylviaZamora)](https://www.linkedin.com/in/sylvia-zamora-trevi%C3%B1o-b2101818b/)**
 - Email: **sylviazamorat@gmail.com**
 
-*Everything here is work in progress. I believe in shipping small, learning fast, and sharing what sticks.*
+
