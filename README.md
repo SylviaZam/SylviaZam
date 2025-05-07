@@ -29,7 +29,7 @@ Python • Jupyter • pandas • NumPy • spaCy • scikit‑learn • SQL •
 "Review‑Miner" refresh: adding transformer‑based topic modelling and a Streamlit front end.
 
 ## 💌 Connect with me
-- LinkedIn: **[https://www.linkedin.com/in/SylviaZamora)](https://www.linkedin.com/in/sylvia-zamora-trevi%C3%B1o-b2101818b/)**
+- LinkedIn: **[https://www.linkedin.com/in/SylviaZamora)]https://www.linkedin.com/in/sylvia-zamora-trevi%C3%B1o-b2101818b/**
 - Email: **sylviazamorat@gmail.com**
 
 
