@@ -13,8 +13,7 @@ Mexican data analyst who loves turning messy data and customer psychology into c
 | Project | Stack | Impact |
 | --- | --- | --- |
 | **Shopify‑Review‑Miner** | Python • pandas • BigQuery • Looker Studio | Cut analysis time from 16 h to 7 min and opened a new US$4 k/mo retainer tier at Unmade |
-| **Friction Loss Rate KPI** | SQL • Heatmap.com • Google Analytics | –19 % drop‑offs, +8 % conversion, +MX$1 M yearly revenue for BFit |
-| **Behavior‑Based Music Recommender** | Python • Spotify API • scikit‑learn | Personalized playlists from workout data, built in a Madrid big‑data bootcamp |
+
 
 ## 🛠️ Tech & tools
 Python • Jupyter • pandas • NumPy • spaCy • scikit‑learn • SQL • BigQuery • Looker Studio • Power BI • Tableau • Git • Heatmap.com • Shopify • Klaviyo • GA4
