@@ -13,8 +13,8 @@ I like clear metrics, small PRs, and docs that teammates actually read.
 ---
 
 ## Technical Expertise
-Languages: Python, SQL, Excel (advanced), R (basic)
-Data Stack: pandas, numpy, matplotlib, Jupyter, BigQuery, GA4 sample
+Languages: Python, SQL, Excel (advanced)
+Data Stack: pandas, numpy, seaborn, pingouin, matplotlib, Jupyter, BigQuery, GA4
 Viz & BI: Tableau, Power BI, Looker Studio
 Ecommerce: Shopify, Klaviyo, survey tooling
 Ops: Git, GitHub, Notion, Slack
