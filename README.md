@@ -1,7 +1,7 @@
 # Sylvia Zamora · Data & Product Analytics
 *Turning messy customer feedback into decisions.*
 
-> also answers to **Zarzamora** (yes, like the berry)
+> also answers to **Zarzamora** (yes, like the berry in spanish)
 
 ---
 
