@@ -1,8 +1,6 @@
 # Sylvia Zamora
 *Turning messy customer feedback into decisions.*
 
-> also answers to **Zarzamora** (yes, like the berry in spanish)
-
 ---
 
 ## Me
