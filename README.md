@@ -47,14 +47,6 @@ Languages (human): English (TOEFL IBT 111/120), Spanish (native), French (interm
 - Keywords: Python, pandas, VADER or OpenAI API, Excel writer, on-disk cache  
 *Repo:* add link here
 
-**Experimentation Case Study: Mobile Game Retention** *(in progress)*
-- A/B analysis with power checks and CUPED
-- One-page decision brief plus compact dashboard
-
-**SQL Product Analytics on BigQuery** *(in progress)*
-- Modular SQL for funnels and cohorts on GA4 sample data
-- Dashboard for weekly reviews
-
 ---
 
 ## Current Explorations
