@@ -1,5 +1,5 @@
 # Sylvia Zamora
-*Turning messy customer feedback into decisions.*
+*Continuosly improving know how to turn messy customer feedback into decisions.*
 
 ---
 
