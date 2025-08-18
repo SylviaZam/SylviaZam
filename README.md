@@ -1,5 +1,5 @@
 # Sylvia Zamora
-*Continuosly improving know how to turn messy customer feedback into decisions.*
+*Continuosly improving in turning messy customer feedback into exec decisions.*
 
 ---
 
