@@ -29,17 +29,6 @@ Languages (human): English (TOEFL IBT 111/120), Spanish (native), French (interm
 - Guardrails, lift estimates, and concise one-pagers
 - Comfort with CUPED style variance reduction and power checks
 
-
-## Selected Work
-
-**Automated Review Analysis Pipeline**
-- CSV surveys → sentiment and category → Excel workbook with per-product sheets, summary pivot, and auto charts
-- API mode reads exact question headers for context
-- Keywords: Python, pandas, VADER or OpenAI API, Excel writer, on-disk cache  
-*Repo:* add link here
-
----
-
 ## Current Explorations
 - Faster VoC triage across multilingual feedback
 - Tighter spec for an analytics “operating manual” that keeps outputs Excel-ready and reproducible
