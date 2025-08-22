@@ -6,7 +6,7 @@
 ## Me
 Data analyst focused on product insights: VoC text analytics, funnels, cohorts, and experiment readouts. I ship reproducible analyses that plug into BI
 
-I like clear metrics, small PRs, and docs that teammates actually read.
+i like turning messy customer feedback into something workable
 
 ---
 
