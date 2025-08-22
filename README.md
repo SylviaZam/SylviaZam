@@ -54,6 +54,5 @@ Languages (human): English (TOEFL IBT 111/120), Spanish (native), French (interm
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/sylvia-zamora-b2101818b/)
 - Email: sylvizamorat@gmail.com
-- GitHub: github.com/SylviaZam
 
 <sub>Berry fact: zarzamora means blackberry. Aggregate fruits. Aggregate metrics. Coincidence.</sub>
