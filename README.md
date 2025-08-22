@@ -1,7 +1,6 @@
 # Sylvia Zamora
 *i like turning messy customer feedback into something workable.*
 
-
 ## Me
 Data analyst focused on product insights: VoC text analytics, funnels, cohorts, and experiment readouts. I ship reproducible analyses that plug into BI
 
