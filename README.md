@@ -1,12 +1,10 @@
 # Sylvia Zamora
 *i like turning messy customer feedback into something workable.*
 
----
 
 ## Me
 Data analyst focused on product insights: VoC text analytics, funnels, cohorts, and experiment readouts. I ship reproducible analyses that plug into BI
 
----
 
 ## Technical Expertise
 Languages: Python, SQL, Excel (advanced)
@@ -15,7 +13,6 @@ Viz & BI: Tableau, Power BI, Looker Studio
 Ecommerce: Shopify, Klaviyo, survey tooling
 Ops: Git, GitHub, Notion, Slack
 Languages (human): English (TOEFL IBT 111/120), Spanish (native), French (intermediate, france study exchange)
-
 
 ---
 
@@ -33,7 +30,6 @@ Languages (human): English (TOEFL IBT 111/120), Spanish (native), French (interm
 - Guardrails, lift estimates, and concise one-pagers
 - Comfort with CUPED style variance reduction and power checks
 
----
 
 ## Selected Work
 
