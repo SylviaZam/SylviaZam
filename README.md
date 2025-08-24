@@ -11,6 +11,7 @@ Data Stack: pandas, numpy, seaborn, pingouin, matplotlib, Jupyter, BigQuery, GA4
 Viz & BI: Tableau, Power BI, Looker Studio
 Ecommerce: Shopify, Klaviyo, survey tooling
 Ops: Git, GitHub, Notion, Slack
+
 Languages (human): English (TOEFL IBT 111/120), Spanish (native), French (intermediate, france study exchange)
 
 ---
