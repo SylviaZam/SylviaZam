@@ -41,7 +41,7 @@ Product designer in San Francisco, studying for an MA in Interaction & UX/UI at 
 ### Code
 
 - [Automated Review Analysis Pipeline](https://github.com/SylviaZam/Automated-Review-Analysis-Pipeline): codes Spanish-language survey and review exports into themes. It packages the feedback workflow I ran at Unmade.
-- [A/B Experimentation Playbook](https://github.com/SylviaZam/AB-Experimentation-GTM-Playbook), [Cohort CAC/LTV Model](https://github.com/SylviaZam/GTM-Cohort-CAC-LTV) and [Retail Trend Radar](https://github.com/SylviaZam/Retail-Trend-Activation-Radar): Python and SQL analyses that end in an Excel readout.
+- [ab-test-readout](https://github.com/SylviaZam/AB-Experimentation-GTM-Playbook), [Cohort CAC/LTV Model](https://github.com/SylviaZam/GTM-Cohort-CAC-LTV) and [Retail Trend Radar](https://github.com/SylviaZam/Retail-Trend-Activation-Radar): Python and SQL analyses that end in an Excel readout.
 
 ### Play
 
