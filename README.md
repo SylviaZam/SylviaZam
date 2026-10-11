@@ -1,43 +1,56 @@
-# Sylvia Zamora
-*Interaction and UX/UI designer who started in research and data.*
+<a href="https://sylviazamora.com/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
+    <img src="assets/logo-light.png" alt="Sylvia Zamora" width="260">
+  </picture>
+</a>
 
-I'm studying for an MA in Interaction & UX/UI at Academy of Art University in San Francisco (Spring 2026 to Fall 2027). Before that I spent two years as a User Experience Researcher at Unmade Design Group, an e-commerce consultancy in Monterrey, turning customer feedback from 20+ brands into changes on their stores. My background is a Global Business degree (Cum Laude) from Universidad de Monterrey.
+Product designer in San Francisco, studying for an MA in Interaction & UX/UI at Academy of Art University. I started in research and data: two years at Unmade, an e-commerce consultancy, turning customer feedback from 20+ brands into store changes, including a product-page redesign projected at MX$1M+ in additional yearly revenue. Promoted to UX Researcher three months in.
 
-## Projects
+[Portfolio](https://sylviazamora.com/) · [LinkedIn](https://www.linkedin.com/in/sylvia-zamora-trevino/) · [Medium](https://medium.com/@sylviazamorat) · sylviazamorat@gmail.com
 
-| Project | What it is |
-|---|---|
-| [Studio Trace](https://github.com/SylviaZam/studio-trace) | A live web app that walks a creator through five prompts and records how AI took part in their work, keeping their own judgment visible. React, Vite, Tailwind. [Try it](https://studio-trace.netlify.app/) |
-| [Automated Review Analysis Pipeline](https://github.com/SylviaZam/Automated-Review-Analysis-Pipeline) | Python pipeline that codes Spanish-language survey and review exports into themes and privacy-safe reports. It packages the workflow I ran at Unmade. |
-| [A/B Experimentation Playbook](https://github.com/SylviaZam/AB-Experimentation-GTM-Playbook) | A/B test analysis of a public game dataset: two-proportion z-tests, power and minimum detectable effect, and an Excel readout. |
-| [Cohort CAC/LTV Model](https://github.com/SylviaZam/GTM-Cohort-CAC-LTV) | Monthly acquisition cohorts, LTV and CAC built in DuckDB SQL from Python, exported to Excel. |
-| [Retail Trend Radar](https://github.com/SylviaZam/Retail-Trend-Activation-Radar) | Google Trends signals ranked into the best months to launch a campaign, with an Excel workbook for non-technical readers. |
+### Selected work
 
-Also live: [Type Is Feeling](https://type-is-feeling.sylviazamorat.workers.dev/), a type specimen that changes size, weight and spacing by mood, and [Please Do Not Touch](https://please-do-not-touch-gallery.netlify.app), a one-room gallery toy.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://sylviazamora.com/work/chappie/"><img src="assets/chappie.jpg" alt="Three phone screens from Chappie: a home screen, a verdict reading 0 Concerns with sources, and the product scanner in a grocery aisle"></a>
+      <br><strong><a href="https://sylviazamora.com/work/chappie/">Chappie</a></strong>
+      <br>An ethical shopping app that shows its evidence instead of a single score. Survey, interviews and a usability test with 8 shoppers.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://studio-trace.netlify.app/"><img src="assets/studio-trace.jpg" alt="Studio Trace landing page: the headline Show how the work was made, inside a tunnel of large blue type"></a>
+      <br><strong><a href="https://studio-trace.netlify.app/">Studio Trace</a></strong> · <a href="https://github.com/SylviaZam/studio-trace">code</a>
+      <br>A live web app that records how AI took part in creative work, so the creator's own judgment stays visible.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://sylviazamora.com/work/bfit/"><img src="assets/bfit.jpg" alt="Bar chart comparing the worries of BFit buyers who found the brand through its founder with buyers from other channels"></a>
+      <br><strong><a href="https://sylviazamora.com/work/bfit/">BFit: same doubts, different reasons</a></strong>
+      <br>Research for a Mexican wellness brand at Unmade. 3,554 survey responses showed every kind of buyer shared one doubt: will it work?
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://sylviazamora.com/work/crunch/"><img src="assets/crunch.jpg" alt="Three phone screens from the Crunch Fitness redesign: class schedule, home with gym capacity, and recent workouts"></a>
+      <br><strong><a href="https://sylviazamora.com/work/crunch/">Crunch Fitness</a></strong>
+      <br>A concept redesign of the gym app that puts check-in and workout logging ahead of offers.
+    </td>
+  </tr>
+</table>
 
-## At Unmade (2023 to 2025)
+### Code
 
-- Ran a customer-feedback report every two weeks for two years, around five brands per cycle, each drawing on 1,000 to 2,500 customer responses.
-- Promoted from E-commerce Assistant Jr to User Experience Researcher three months in, for the feedback process I owned.
-- My reports' recommendations went live as site and copy changes. The BFit product-page redesign was implemented and projected at MX$1M+ in additional annual revenue.
+- [Automated Review Analysis Pipeline](https://github.com/SylviaZam/Automated-Review-Analysis-Pipeline): codes Spanish-language survey and review exports into themes. It packages the feedback workflow I ran at Unmade.
+- [A/B Experimentation Playbook](https://github.com/SylviaZam/AB-Experimentation-GTM-Playbook), [Cohort CAC/LTV Model](https://github.com/SylviaZam/GTM-Cohort-CAC-LTV) and [Retail Trend Radar](https://github.com/SylviaZam/Retail-Trend-Activation-Radar): Python and SQL analyses that end in an Excel readout.
 
-## Tools
+### Play
 
-- **Design:** Figma, Figma Make, Adobe Creative Cloud (Photoshop, Illustrator)
-- **Research:** surveys, interviews, usability testing, affinity mapping, competitive audits
-- **Data:** Python (pandas, NumPy), SQL, DuckDB, Jupyter, Excel, Power BI, Tableau
-- **Web:** HTML, CSS, Tailwind CSS, JavaScript, Astro, Git
-- **AI:** Claude, Claude Code, Codex, Cursor, ChatGPT, Lovable
-- **E-commerce:** Shopify, Klaviyo, Zigpoll, KNO
+[Type Is Feeling](https://type-is-feeling.sylviazamorat.workers.dev/), a type specimen that changes with mood, and [Please Do Not Touch](https://please-do-not-touch-gallery.netlify.app), a gallery sculpture you are not supposed to poke.
 
-## Writing
+### Writing
 
-I write about design, research and AI [on Medium](https://medium.com/@sylviazamorat), including [AI Can Generate the UI. Who Designs the Rules?](https://medium.com/design-systems-collective/ai-can-generate-the-ui-who-designs-the-rules-1c4d5b18a7c1) in Design Systems Collective.
+[AI Can Generate the UI. Who Designs the Rules?](https://medium.com/design-systems-collective/ai-can-generate-the-ui-who-designs-the-rules-1c4d5b18a7c1) · [The Devaluation of "Discovery"](https://medium.com/@sylviazamorat/the-devaluation-of-discovery-4749d83722a8) · [Your Design System Speaks English](https://www.designsystemscollective.com/your-design-system-speaks-english-c1b5e89e03dc)
 
-## Contact
-
-- Portfolio: [sylviazamora.com](https://sylviazamora.com/)
-- [LinkedIn](https://www.linkedin.com/in/sylvia-zamora-trevino/)
-- Email: sylviazamorat@gmail.com
+<sub>Figma · Adobe Creative Cloud · HTML, CSS, JavaScript · Python · SQL · Claude Code · Codex</sub>
 
 <sub>Berry fact: zarzamora means blackberry.</sub>
